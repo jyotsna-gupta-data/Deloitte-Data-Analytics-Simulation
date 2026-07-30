@@ -1,2 +1,2 @@
 # Deloitte-data-analytics-simulation
-Global Operations &amp; Machine Telemetry
+Global Operations & Machine Telemetry Analysis dashboard built using Power BI during the Deloitte Data Analytics Job Simulation on Forage.
