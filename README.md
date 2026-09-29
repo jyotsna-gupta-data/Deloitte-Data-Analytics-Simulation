@@ -1,4 +1,5 @@
 # Deloitte Data Analytics & Forensic Technology Job Simulation 📊
+![Download Preview](Screenshot%202026-09-29%20225814.png)
 
 ## Executive Summary
 Completed a virtual job simulation with **Deloitte** on Forage, focusing on data analysis and technology consulting. Analyzed real-world machine data for the **Daikibo Group** to spot equipment risks, find causes of factory downtime, and help improve machine maintenance.
